@@ -9,3 +9,4 @@ The system requirements are currently:
  - internet access
  - github ip
  - repository access/download
+ - hosts file forwarding everything to 127.0.0.1
